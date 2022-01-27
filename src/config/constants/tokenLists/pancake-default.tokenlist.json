@@ -11,7 +11,7 @@
   "keywords": ["pancake", "default"],
   "tokens": [
        {
-      "name": "Swap Crypto  Token",
+      "name": "Swap Crypto Token",
       "symbol": "SCW",
       "address": "0x429199e68283bB1E193D38ba8e85DFbCA4a973c9",
       "chainId": 56,
@@ -33,14 +33,7 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
-     {
-      "name": "Swap Crypto  Token",
-      "symbol": "SCW",
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
-    },  },
+    },
     {
       "name": "Ethereum Token",
       "symbol": "ETH",
