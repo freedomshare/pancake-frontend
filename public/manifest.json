@@ -1,7 +1,7 @@
 {
   "short_name": "Swap Crypto",
   "name": "Swap Crypto",
-  "description": "Farm CAKE with Pancake LP Tokens",
+  "description": "Farm Swap Crypto with Swap LP Tokens",
   "homepage_url": "https://thirsty-hugle-3daa6e.netlify.app/",
   "start_url": ".",
   "display": "standalone",
